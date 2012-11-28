@@ -1,0 +1,11 @@
+INDEX VERSION 1.126+C:\Archivos de programa\Eclipse\ProyectoRedes\.metadata\.plugins\org.eclipse.jdt.core
+233105473.index
+1922148926.index
+911347026.index
+2713768106.index
+2913512135.index
+3163496477.index
+1487858367.index
+1067744687.index
+4015662414.index
+505140301.index
